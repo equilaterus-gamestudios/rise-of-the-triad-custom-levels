@@ -1,0 +1,19 @@
+project
+{
+    visibility "0"
+    tag_1 "level"
+    description_1 "HUNT forces have detected enemy activity in South America."
+    description_2 "Your mission is to infiltrate into the enemy outpost, discover what is happening and finally, destroy all enemy forces before darkness continues to grow in the continent."
+    description_3 ""
+    description_4 "- Unique locations including enemy outposts, a destroyed city and much more!"
+    description_5 "- 20 to 40 minutes of gameplay."
+    publishedfileid "3016305284"
+    description_6 "- Battles against dozens of enemies at once."
+    description_7 "- Action paced map combined with intriguing puzzle sections."
+    description_8 "- A leap of faith before your last fighting against evil forces."
+    file_1 "C:\users\steamuser\Saved Games\Nightdive Studios\Rise of the Triad - Ludicrous Edition\projects\deep-in-the-hill.rtlx"
+    description_9 "- Source: https://github.com/equilaterus-gamestudios/rise-of-the-triad-custom-levels"
+    title "Deep in the hill"
+    thumbnail "C:\users\steamuser\Saved Games\Nightdive Studios\Rise of the Triad - Ludicrous Edition\projects\deep-hill.png"
+}
+
